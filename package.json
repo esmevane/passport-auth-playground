@@ -1,0 +1,12 @@
+{
+  "name": "passport-auth-playground",
+  "version": "0.0.0",
+  "description": "Minimal passport auth demonstration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Joseph McCormick <esmevane@gmail.com>",
+  "license": "MIT"
+}
